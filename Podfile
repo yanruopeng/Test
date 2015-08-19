@@ -1,0 +1,10 @@
+platform :ios,’8.4’
+pod 'AFNetworking'
+pod 'MBProgressHUD'
+pod 'SVPullToRefresh'
+pod 'ABContactHelper'
+pod 'SDWebImage'
+pod 'pop'
+pod 'Masonry'
+pod 'ReactiveCocoa'
+pod 'FMDB'
